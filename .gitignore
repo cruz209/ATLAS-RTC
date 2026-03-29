@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+outputs/
+*.jsonl
+*.log
+*.sqlite
+*.db
+.cache/
+.pytest_cache/
+.ipynb_checkpoints/
